@@ -7,6 +7,8 @@
         <PackageVersion>1.0.0-alpha.1</PackageVersion>
         <Authors>Typiqally</Authors>
         <PackageProjectUrl>https://github.com/Typiqally/dotnetcore-result</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Typiqally/dotnetcore-result</RepositoryUrl>
+        <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
