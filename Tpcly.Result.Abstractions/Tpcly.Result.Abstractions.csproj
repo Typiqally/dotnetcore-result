@@ -7,6 +7,12 @@
         <PackageVersion>1.0.0-alpha.1</PackageVersion>
         <Authors>Typiqally</Authors>
         <PackageProjectUrl>https://github.com/Typiqally/dotnetcore-result</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Typiqally/dotnetcore-result</RepositoryUrl>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
     </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="../LICENSE" Pack="true" PackagePath="LICENSE"/>
+    </ItemGroup>
 
 </Project>
