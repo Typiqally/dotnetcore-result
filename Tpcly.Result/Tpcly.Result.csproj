@@ -8,12 +8,8 @@
         <Authors>Typiqally</Authors>
         <PackageProjectUrl>https://github.com/Typiqally/dotnetcore-result</PackageProjectUrl>
         <RepositoryUrl>https://github.com/Typiqally/dotnetcore-result</RepositoryUrl>
-        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
     </PropertyGroup>
-
-    <ItemGroup>
-        <None Include="../LICENSE" Pack="true" PackagePath="LICENSE"/>
-    </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\Tpcly.Result.Abstractions\Tpcly.Result.Abstractions.csproj" />
