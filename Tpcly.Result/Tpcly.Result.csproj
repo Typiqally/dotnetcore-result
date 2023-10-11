@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.0.0-alpha.1</PackageVersion>
+        <Authors>Typiqally</Authors>
+        <PackageProjectUrl>https://github.com/Typiqally/dotnetcore-result</PackageProjectUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Tpcly.Result.Abstractions\Tpcly.Result.Abstractions.csproj" />
+    </ItemGroup>
+
+</Project>
